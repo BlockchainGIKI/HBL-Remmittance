@@ -39,5 +39,5 @@ Who is responsible for investigating a financial crime that occurs across border
 Other concerns include system stability, energy requirements, carbon footprint, system upgrades, system maintenance, and hardware failures.
 
 ## Acknowledgments
-[Dr. Fahd S Khan](https://giki.edu.pk/personnel/dr-fahd-sikandar-khan/)
-[H.Muhammad Kamran](https://github.com/hmuhdkamran)
+* [Dr. Fahd S Khan](https://giki.edu.pk/personnel/dr-fahd-sikandar-khan/)
+* [H.Muhammad Kamran](https://github.com/hmuhdkamran)
