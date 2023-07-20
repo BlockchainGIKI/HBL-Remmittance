@@ -1,4 +1,4 @@
-# [HBL Defi Bank](http://10.1.33.168/) &middot; [![react](https://react.dev/)] (https://reactjs.org/) &middot; [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
+# [HBL Defi Bank](http://10.1.33.168/) &middot; [react](https://react.dev/) (https://reactjs.org/) &middot; [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
 
 ## What Is Decentralized Finance (DeFi)?
 Decentralized finance (DeFi) is an emerging financial technology based on secure distributed ledgers similar to those used by cryptocurrencies.
@@ -39,4 +39,5 @@ Who is responsible for investigating a financial crime that occurs across border
 Other concerns include system stability, energy requirements, carbon footprint, system upgrades, system maintenance, and hardware failures.
 
 ## Acknowledgments
+[Dr. Fahd S Khan] (https://giki.edu.pk/personnel/dr-fahd-sikandar-khan/)
 [H.Muhammad Kamran](https://github.com/hmuhdkamran)
